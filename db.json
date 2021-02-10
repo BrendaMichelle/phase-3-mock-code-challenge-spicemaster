@@ -2,12 +2,12 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Garlic Spice",
+      "title": "Cinnamon",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
       "id": 2,
-      "title": "Za'atar",
+      "title": "yumm",
       "image": "./assets/spices/zaatar.jpg"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "title": "Five Spice Glory!",
+      "title": "yummm",
       "image": "./assets/spices/fivespice.jpg"
     }
   ],
@@ -121,6 +121,21 @@
       "name": "Parsley",
       "spiceblendId": 3,
       "id": 21
+    },
+    {
+      "name": "Almonds",
+      "spiceblendId": 1,
+      "id": 22
+    },
+    {
+      "name": "Sesame Seeds",
+      "spiceblendId": 1,
+      "id": 23
+    },
+    {
+      "name": "Water",
+      "spiceblendId": 1,
+      "id": 24
     }
   ]
 }
