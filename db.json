@@ -2,7 +2,7 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Apple Spice Yum",
+      "title": "Garlic Spice",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "title": "Five Spice",
+      "title": "Five Spice Glory!",
       "image": "./assets/spices/fivespice.jpg"
     }
   ],
@@ -106,6 +106,21 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "Apples",
+      "spiceblendId": 1,
+      "id": 18
+    },
+    {
+      "name": "Banana",
+      "spiceblendId": 1,
+      "id": 19
+    },
+    {
+      "name": "Parsley",
+      "spiceblendId": 3,
+      "id": 21
     }
   ]
 }
