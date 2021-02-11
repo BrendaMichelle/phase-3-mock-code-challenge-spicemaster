@@ -101,7 +101,7 @@ function handleNewIngredientForm(event) {
         .then(newIngredient => console.log(newIngredient))
 }
 
-function handleSpiceImagesClick() {
+function handleSpiceImagesClick(event) {
     // event.target.tagName === "IMG"
     if (event.target.matches('img')) {
         currentSpiceBlend = event.target.dataset.id
